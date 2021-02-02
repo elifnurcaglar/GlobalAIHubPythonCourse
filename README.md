@@ -1,23 +1,18 @@
-# GAIH Student Repo Example
+# GlobalAIHubPythonCourse
 ![](img/logo.png)
 
-**Course Date:** DD.MM.YYYY  
-**Name:** Mert  
-**Surname:** Cobanov  
-**Email:** mertcobanov@gmail.com  
+**Course Date:** 01.02.2021 - 05.02.2021
 
-**Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
+**Name:** Elif Nur
 
-## Project Name
-Description of your project.
+**Surname:** Çağlar
 
-## Requirements
-```
-Some python libraries
-Some python libraries
-Some python libraries
-```
----
+**Email:** elifncaglar@gmail.com  
+
+
+## GlobalAIHubPythonCourse Projects
+This repo contain GlobalAIHubPythonCourse projects.
+
 
 ### Certification
 ![](img/certificate_ex.png)
