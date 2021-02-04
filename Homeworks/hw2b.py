@@ -1,4 +1,4 @@
-#login system with using dictionarys
+#login system with using dictionaries
 print("****login****")
 
 login = {"userEmail": "elifn", "userPassword": "trytrytry"}
