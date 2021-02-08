@@ -15,5 +15,5 @@ This repo contain GlobalAIHubPythonCourse projects.
 
 
 ### Certification
-![](img/certificate_ex.png)
+![](img/INTRODUCTION TO PYTHON PROGRAMMING COURSE.png)
 
